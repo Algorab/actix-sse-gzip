@@ -1,0 +1,31 @@
+{
+    "cSpell.words": [
+        "actix",
+        "ahash",
+        "bytestring",
+        "cbor",
+        "clippy",
+        "dalek",
+        "deque",
+        "deserialization",
+        "docsrs",
+        "dtolnay",
+        "Expiremental",
+        "hmac",
+        "hsts",
+        "itertools",
+        "msgpack",
+        "ndjson",
+        "pemfile",
+        "prehashed",
+        "rdef",
+        "refcell",
+        "RUSTDOCFLAGS",
+        "rustls",
+        "rustversion",
+        "serde",
+        "splitn",
+        "trybuild",
+        "vals"
+    ]
+}

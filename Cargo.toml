@@ -1,0 +1,16 @@
+[package]
+name = "actix-sse-gzip"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "4.3.1"
+actix-web-lab = { path = "custom_dependencies/actix-web-lab-lab-v0.19.1/actix-web-lab" }
+tokio = { version = "1", features = ["full"] }
+tokio-stream = "0.1.12"
+uuid = {version = "1.3.2", features = ["v4"]}
+async-std = "1.12.0"
+env_logger = "0.10.0"
+futures-util = "0.3.28"
