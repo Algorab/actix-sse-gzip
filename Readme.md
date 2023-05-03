@@ -30,6 +30,5 @@ Values in messages per second
 
 
 ## Summary
-Using the compression slow down the throughput dramatically. While the
-uncompressed throughput is perfect.
+Using the compression slow down the throughput in an expected manner.
 
